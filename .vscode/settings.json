@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "**/include/*": "cpp",
+        "type_traits": "cpp"
+    }
+}
